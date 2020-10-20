@@ -1,0 +1,40 @@
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\bin\Debug\Punktijaht.exe.config
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\bin\Debug\Punktijaht.exe
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\bin\Debug\Punktijaht.pdb
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.csprojAssemblyReference.cache
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.Form1.resources
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.Properties.Resources.resources
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.csproj.GenerateResource.cache
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.csproj.CoreCompileInputs.cache
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.exe
+C:\Users\Kristin\source\repos\Punktijaht\Punktijaht\obj\Debug\Punktijaht.pdb
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\bin\Debug\Punktijaht.exe.config
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\bin\Debug\Punktijaht.exe
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\bin\Debug\Punktijaht.pdb
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.csprojAssemblyReference.cache
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.Form1.resources
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.Properties.Resources.resources
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.csproj.GenerateResource.cache
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.csproj.CoreCompileInputs.cache
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.exe
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht\Punktijaht\obj\Debug\Punktijaht.pdb
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\bin\Debug\Punktijaht.exe.config
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\bin\Debug\Punktijaht.exe
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\bin\Debug\Punktijaht.pdb
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.csprojAssemblyReference.cache
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.Form1.resources
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.Properties.Resources.resources
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.csproj.GenerateResource.cache
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.csproj.CoreCompileInputs.cache
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.exe
+C:\Users\Kristin\source\repos\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.pdb
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\bin\Debug\Punktijaht.exe.config
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\bin\Debug\Punktijaht.exe
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\bin\Debug\Punktijaht.pdb
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.csprojAssemblyReference.cache
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.Form1.resources
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.Properties.Resources.resources
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.csproj.GenerateResource.cache
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.csproj.CoreCompileInputs.cache
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.exe
+C:\Users\Kristin\OneDrive - Tallinn Polytechnic School\999 Läbi (I kursus)\OOP - Aleksei Narusberg\OOP_2020\Punktijaht2\Punktijaht\obj\Debug\Punktijaht.pdb
